@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "588549971539",
+    "project_id": "bubt-fudo",
+    "storage_bucket": "bubt-fudo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588549971539:android:05df0f64d09c67d6ebf0a6",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA7O-tWL-v9D_LPy8YifuoFaaGQLhP5Vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
